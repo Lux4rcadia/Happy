@@ -1,0 +1,27 @@
+{
+  "zen": "Design for failure.",
+  "hook_id": 191154501,
+  "hook": {
+    "type": "Repository",
+    "id": 191154501,
+    "name": "web",
+    "active": true,
+    "events": [
+      "push"
+    ],
+    "config": {
+      "content_type": "json",
+      "insecure_ssl": "0",
+      "url": "https://discordapp.com/api/webhooks/687720839000752147/Mbt00mp4iSYaDrWw_TS-n0oeyUOKwY3wwbYVmM6aqw9zZDUJ1GATTaKgBQDT-Spvl-RP/github"
+    },
+    "updated_at": "2020-03-12T18:29:06Z",
+    "created_at": "2020-03-12T18:29:06Z",
+    "url": "https://api.github.com/repos/Lux4rcadia/Happy/hooks/191154501",
+    "test_url": "https://api.github.com/repos/Lux4rcadia/Happy/hooks/191154501/test",
+    "ping_url": "https://api.github.com/repos/Lux4rcadia/Happy/hooks/191154501/pings",
+    "last_response": {
+      "code": null,
+      "status": "unused",
+      "message": null
+    }
+  },
